@@ -1,0 +1,10 @@
+{
+    "aws_region": "us-east-1",
+    "ami_name": "ubuntu-golden-ami",
+    "creator": "Partha",
+    "instance_type": "m4.large",
+    "ami_description": "Ubuntu image hardened with cis benchmarks 2.0",
+    "security_group_id": "sg-038eac9c5a2861978",
+    "subnet_id": "subnet-0f5165fbb7f91099a"
+}
+
